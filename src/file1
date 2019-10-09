@@ -1,4 +1,8 @@
 git test
 create file1
-change file1
+deal bug
 add someone
+<<<<<<< Temporary merge branch 1
+=======
+change file1
+>>>>>>> Temporary merge branch 2
